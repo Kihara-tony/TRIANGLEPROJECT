@@ -22,3 +22,16 @@ marquee img{
 h2{
   text-align: center;
 }
+.text{
+  float:right;
+  margin-top: -260px;
+  font-size: 1.4em;
+  font-family: 'Courgette', cursive;
+  border: 1px solid grey;
+  background-color: grey;
+  padding: 10px;
+  color:white;
+  border-radius: 9px 9px 9px 9px;
+  box-shadow: 4px 2px 3px blue;
+  box-decoration-break: blink;
+}
