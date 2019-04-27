@@ -13,6 +13,7 @@
 ## Description
 
 -Triangle Tracker helps one in determining the name type of the triangle you have and you actually don't know the type of the triangle you have.
+
 -Enter the measurements of the triangle you have and then click the check button and you will receive an alert to shoe you the name of your triangle.
 
 --------------------------------------------------------
@@ -25,6 +26,8 @@
 ## A live demo
 
 [a demo]( https://kihara-tony.github.io/TRIANGLEPROJECT/.)
+
+
 -------------------------------------------------------------------
 
 ## Instructions of use
@@ -57,9 +60,8 @@ Email: tonykiharatonkin6@gmail.com
 |Not a triangle|20,1,2|Not a triangle|
 
 
---------------------------------------------------------------------
+------------------------------------------------------------------
 ## License
-~~~
-* Authorized to be used by anyone in need of it anytime and anywhere.
+
+ Authorized to be used by anyone in need of it anytime and anywhere.
       copyright &copy 2019 Tony Studio
-      ~~~
