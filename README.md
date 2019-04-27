@@ -1,31 +1,32 @@
-#Triangle Tracker#
+# Triangle Tracker
 -------------------------
-##Author##
+## Author
 
- ~~~-![tony](Home/Downloads/tony.jpg)Tony Kihara.
 
+ ![tony](Home/Downloads/tony.jpg)Tony Kihara.
+~~~
 -Date:27/4/2019
 ~~~
 
 ---------------
-##Description##
+## Description
 
 -Triangle Tracker helps one in determining the name type of the triangle you have and you actually don't know the type of the triangle you have.
 -Enter the measurements of the triangle you have and then click the check button and you will receive an alert to shoe you the name of your triangle.
 
 --------------------------------------------------------
-##Features##
+## Features
 
 ~~~-The language used was JavaScript.
 -HTML and CSS were majorly in used in making of the front end features.
 ~~~
 ------------------------------------------------------------------
-##A live demo
+## A live demo
 
-[A Demo]( https://kihara-tony.github.io/TRIANGLEPROJECT/.)
+[a demo]( https://kihara-tony.github.io/TRIANGLEPROJECT/.)
 -------------------------------------------------------------------
 
-##Instructions of use##
+## Instructions of use
 ~~~
 -To start using this project follow the commands:
 * git clone Trackerproject
@@ -34,13 +35,13 @@
 ~~~
 -------------------------------------------------------------------------
 
-## Support and contact details##
+## Support and contact details
 ~~~
-* Email: tonykiharatonkin6@gmail.com
-* Call:0748963275.
+Email: tonykiharatonkin6@gmail.com
+ Call:0748963275.
 ~~~
 ------------------------------------------------------------------
-##Behavior Driven Development(BDD)##
+## Behavior Driven Development(BDD)
 
 -----------------------------------------------------------
 |Behavior:                 |Input example   |Output  example|
@@ -56,7 +57,7 @@
 ---------------------------------------
 
 --------------------------------------------------------------------
-##Lisence##
+## License
 ~~~
 * Authorized to be used by anyone in need of it anytime and anywhere.
       copyright &copy 2019 Tony Studio
