@@ -3,7 +3,8 @@
 ## Author
 
 
- ![tony](Home/Downloads/tony.jpg)Tony Kihara.
+ ![tony](https://lh3.googleusercontent.com/ndrpclxgNaR4IxW8Jtug8yQL6pXqh4j1ZQ3QxGbiyiUkDy-EkImUOFyfXWnxvQr6w9tWhGwWPVXgvh9Q=w165-h220-rw)
+ Tony Kihara.
 ~~~
 -Date:27/4/2019
 ~~~
@@ -43,18 +44,18 @@ Email: tonykiharatonkin6@gmail.com
 ------------------------------------------------------------------
 ## Behavior Driven Development(BDD)
 
------------------------------------------------------------
+
 |Behavior:                 |Input example   |Output  example|
 |what should our program do|What it receives|What it gives|
----------------------------------------------------------
+|:-------------------------|:------------:|:------------------:|
 |A triangle that is an equilateral|4,4,4| equilateral:all sides are equal|
-------------------------------------------------------------------
+|:------------------|:-----------:|:--------------------------:|
 |A triangle that is an isosceles|4,4,5|Isosceles:two sides are equal|
-----------------------------------------------------------------------
+|:-----------|:----------:|:----------------------------------:|
 |A triangle that is a scalene|3,4,5|Scalene:all sides are not equal|
-------------------------------------------------------------------
+| :-----------|:---------:|:-----------------:|
 |Not a triangle|20,1,2|Not a triangle|
----------------------------------------
+
 
 --------------------------------------------------------------------
 ## License
