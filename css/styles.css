@@ -35,3 +35,6 @@ h2{
   box-shadow: 4px 2px 3px blue;
   box-decoration-break: blink;
 }
+fieldset{
+  border-radius: 8px 8px 8px 8px;
+}
