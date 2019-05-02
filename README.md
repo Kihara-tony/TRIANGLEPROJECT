@@ -49,15 +49,15 @@ Email: tonykiharatonkin6@gmail.com
 ## Behavior Driven Development(BDD)
 
 
-  Behavior: what should our program do                |  Input example What it receives   |  Output  example what it gives 
+  Behavior: what should our program do:  Input example What it receives : Output  example what it gives
 
-  A triangle that is an equilateral   |   4,4,4  | equilateral:all sides are equal  
+  A triangle that is an equilateral:   4,4,4 :equilateral:all sides are equal  
 
-  A triangle that is an isosceles  |  4,4,5   |  Isosceles:two sides are equal  
+  A triangle that is an isosceles : 4,4,5  : Isosceles:two sides are equal  
 
-  A triangle that is a scalene  |  3,4,5  |  Scalene:all sides   are   not equal  
+  A triangle that is a scalene:  3,4,5 :  Scalene:all sides   are   not equal  
 
-  Not a triangle   |  20,1,2   |  Not a triangle  
+  Not a triangle :  20,1,2   : Not a triangle  
 
 ------------------------------------------------------------------
 ## License
